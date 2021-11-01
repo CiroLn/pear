@@ -1,2 +1,2 @@
 # pear
-auto play pictures
+Feature: auto play pictures

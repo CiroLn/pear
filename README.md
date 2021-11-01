@@ -1,0 +1,2 @@
+# pear
+auto play pictures
